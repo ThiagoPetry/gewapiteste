@@ -1,5 +1,5 @@
-INSERT INTO secoes(id, responsavel_id, nome) VALUES
-(null, 67266, 'Departamento de E-commerce'),
-(null, 67279, 'WEG Digitals'),
-(null, 67280, 'Centro de Desenvolvimento'),
-(null, 67281, 'Recursos Humanos');
+INSERT INTO secoes(responsavel_id, nome) VALUES
+(67266, 'Departamento de E-commerce'),
+(67279, 'WEG Digitals'),
+(67280, 'Centro de Desenvolvimento'),
+(67281, 'Recursos Humanos');

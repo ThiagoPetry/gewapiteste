@@ -1,5 +1,5 @@
-INSERT INTO cargos_funcionarios(id, funcionario_cracha, cargo_id) VALUES
-(null, 67266, 1),
-(null, 67279, 1),
-(null, 67280, 1),
-(null, 67281, 1)
+INSERT INTO cargos_funcionarios(funcionario_cracha, cargo_id) VALUES
+(67266, 1),
+(67279, 1),
+(67280, 1),
+(67281, 1)
