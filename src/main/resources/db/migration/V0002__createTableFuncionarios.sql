@@ -1,4 +1,5 @@
-CREATE TABLE funcionarios(
+CREATE TABLE funcionarios
+(
     numero_cracha BIGINT NOT NULL PRIMARY KEY,
     nome VARCHAR(200) NOT NULL,
     cpf VARCHAR(12) NOT NULL,
