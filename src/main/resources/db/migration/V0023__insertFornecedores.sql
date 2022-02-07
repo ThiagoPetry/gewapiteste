@@ -1,4 +1,4 @@
-INSERT INTO fornecedores VALUES
+INSERT INTO fornecedores(id. nome. cnpj, email, telefone) VALUES
 (null, "ABAP", "84.427.695/0002-21", "abap@gmail.com", "(47)92828-2344"),
 (null, "Malvi", "83.229.695/0023-11", "malvi@gmail.com", "(47)92678-2344"),
 (null, "Naki", "81.423.687/0056-11", "naki@gmail.com", "(47)91328-2349"),

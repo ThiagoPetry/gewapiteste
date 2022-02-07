@@ -1,4 +1,4 @@
-INSERT INTO cargos VALUES
+INSERT INTO cargos(id, nome) VALUES
 (null, "ROLE_GERENTE"),
 (null, "ROLE_GESTOR"),
 (null, "ROLE_FORNECEDOR"),
